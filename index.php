@@ -144,7 +144,7 @@
                         </div>
                         <div class="row">
                            <?php
-                           $rs = $con->query("SELECT  * FROM animes"); 
+                           $rs = $con->query("SELECT  * FROM "); 
 
                            ?>
                         </div>
